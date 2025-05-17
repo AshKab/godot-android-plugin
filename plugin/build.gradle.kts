@@ -9,7 +9,7 @@ plugins {
 val pluginName = "TwindogsGodotAndroidPluginTemplate"
 
 // TODO: Update value to match your plugin's package name.
-val pluginPackageName = "org.godotengine.plugin.android.template"
+val pluginPackageName = "com.twindogs.ai"
 
 android {
     namespace = pluginPackageName
